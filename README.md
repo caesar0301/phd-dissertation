@@ -6,6 +6,7 @@
 
 Bibtex: [thesis.bib](https://raw.githubusercontent.com/caesar0301/phd-dissertation/master/thesis.bib)
 
+``` bibtex
 @phdthesis{xmchen:human_mobility_2016,
 	author = {Xiaming Chen},
 	title = {Analyzing and Modelling Human Spatio-Temporal Mobility with Mobile Data},
@@ -31,3 +32,4 @@ Bibtex: [thesis.bib](https://raw.githubusercontent.com/caesar0301/phd-dissertati
 	keywords = {时空数据挖掘,移动行为,网络参与行为,时空关联,行为模型},
 	url = {https://github.com/caesar0301/phd-dissertation}
 }
+```
